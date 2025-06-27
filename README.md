@@ -4,7 +4,7 @@ I'm deeply curious about how the mind works and how artificial intelligence is b
 
 I'm especially fascinated by things like:
 
-- How general and convolutional neural networks learn  
+ - How general neural networks and convolutional neural networks learn
 - The architecture of large language models (LLMs)  
 - The connections between biological and artificial intelligence  
 
