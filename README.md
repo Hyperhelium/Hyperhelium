@@ -17,7 +17,7 @@ Here on GitHub, I'm documenting what I'm learning, experimenting with small proj
 - Cognitive science & brain-inspired AI  
 - Systems-level understanding of LLMs and CNNs  
 - Making learning more human (even with machines)
-- Making a true AI that replicates exactly human cognition.
+- Making a silly AI.
 
 ---
 
